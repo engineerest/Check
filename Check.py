@@ -4,7 +4,7 @@ import time
 from aiogram.filters.command import Command
 from aiogram import types, Dispatcher, Bot, Router
 
-bot_t = Bot(token="6953283417:AAFU5Y0ux3GI7_As8ObhHJzbgQM9p0v0ZJE")
+bot_t = Bot(token="#@%$@$%#$6")
 dp = Dispatcher()
 
 @dp.message(Command("start"))
